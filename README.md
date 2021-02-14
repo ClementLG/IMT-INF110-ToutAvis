@@ -45,9 +45,6 @@ JAVA: JSE11
 - CLEGRUIEC-ELEDUC-feuilleHeures.pdf
 - CLEGRUIEC-ELEDUC-Explication_LOT-2-3.pdf --> comment fonctionne notre lot 2
 
-_JavaDocs  (193 fichiers)_
-- index.html --> Le fichier a éxécuté pour voir la javadocs
-
 _Tests  (6 fichiers)_
 - ficheValidationAddItemFilm.pdf
 - ficheValidationAddMember.pdf
@@ -66,33 +63,7 @@ _Diagrammes (8 fichiers)_
 - LEGRUIEC-LEDUC-diagSequenceReviewItemFilm.pdf
 - LEGRUIEC-LEDUC-diagSequenceReviewOpinion.pdf
 
-_CodeLOT_1 (22 fichiers)_
-- Tests
-  - addItemBookTest.java
-  - addItemFilmTest.java
-  - AddMemberTest.java
-  - ConsultItemTest.java
-  - ConsultItemTestOld.java
-  - InitTest.java
-  - package-info.java
-  - reviewItemBookTest.java
-  - reviewItemFilmTest.java
-  - SocialNetworkTest.java
-  - TestReport.java
-- Opinions
-  - Book.java
-  - Film.java
-  - HMI.java
-  - ISocialNetwork.java
-  - Item.java
-  - Member.java
-  - package-info.java
-  - Review.java
-  - SocialNetwork.java
-  - TestReport.java
-  - TestSocialNetwork.java
-
-_CodeLOT_1 (27 fichiers)_
+_CodeLOT (27 fichiers)_
 - tests
   - addItemBookTest.java
   - addItemFilmTest.java
