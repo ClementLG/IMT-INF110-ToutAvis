@@ -1,0 +1,87 @@
+#####################
+#                   #
+#     LOT 1         #
+#                   #
+#####################
+
+Testing brand new Social Networks...  
+Here is the newly created SocialNetwork :
+
+InitTest : [ Nb of performed tests : 3 / nb of detected error(s) : 0 ]
+
+
+ **********************************************************************************************
+
+Testing addMember()
+
+AddMemberTest : [ Nb of performed tests : 15 / nb of detected error(s) : 0 ]
+
+
+ **********************************************************************************************
+
+Testing addItemFilm()
+
+AddItemFilm : [ Nb of performed tests : 18 / nb of detected error(s) : 0 ]
+
+
+ **********************************************************************************************
+
+Testing addItemBook()
+
+AddItemBook : [ Nb of performed tests : 17 / nb of detected error(s) : 0 ]
+
+
+ **********************************************************************************************
+
+Testing reviewItemFilm()
+
+reviewItemFilm : [ Nb of performed tests : 15 / nb of detected error(s) : 0 ]
+
+
+ **********************************************************************************************
+
+Testing reviewItemBook()
+
+reviewItemBook : [ Nb of performed tests : 15 / nb of detected error(s) : 0 ]
+
+
+ **********************************************************************************************
+
+
+Testing ConsultItem()
+
+ConsultItemTest : [ Nb of performed tests : 8 / nb of detected error(s) : 0 ]
+
+
+ **********************************************************************************************
+
+Global tests results :   
+[ Nb of performed tests : 91 / nb of detected error(s) : 0 ]
+
+
+
+
+#####################
+#                   #
+#     LOT 2         #
+#                   #
+#####################
+
+
+Testing ConsultItemPremium()
+
+ConsultItemTest : [ Nb of performed tests : 7 / nb of detected error(s) : 0 ]
+
+
+ **********************************************************************************************
+
+Testing reviewOpinion()
+
+reviewItemBook : [ Nb of performed tests : 17 / nb of detected error(s) : 0 ]
+
+
+ **********************************************************************************************
+
+Global tests results :   
+[ Nb of performed tests : 24 / nb of detected error(s) : 0 ]
+
