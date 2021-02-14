@@ -1,6 +1,6 @@
 # Contexte
 
-Projet scolaire de 1ère année d'école d'ingénieur.
+Projet scolaire de 1ère année d'école d'ingénieur (IMT Atlantique).
 
 C'est un projet d'initiation à la POO avec Java et à la gestion d'un projet de dev.
 
