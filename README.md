@@ -41,17 +41,17 @@ JAVA: JSE11
 
 ### Les fichiers présents dans le dossier (258 au total)
 
-- cLEGRUIEC-eLEDUC-Diagrammes.pdf  --> Tous les digrammes mergés dans un fichier
+- cLEGRUIEC-eLEDUC-Diagrammes.pdf  --> Tous les digrammes mergés dans un fichier.
 - CLEGRUIEC-ELEDUC-feuilleHeures.pdf
-- CLEGRUIEC-ELEDUC-Explication_LOT-2-3.pdf --> comment fonctionne notre lot 2
+- CLEGRUIEC-ELEDUC-Explication_LOT-2-3.pdf --> comment fonctionne notre lot 2.
 
 _Tests  (6 fichiers)_
 - ficheValidationAddItemFilm.pdf
 - ficheValidationAddMember.pdf
 - ficheValidationReviewItemFIlm.pdf
 - ficheValidationReviewOpinion.pdf
-- Trace-ResultatsFULL.txt   --> traces d'exécution du code en version pleine (avec le debug)
-- Trace-ResultatsLIGHT.txt  --> traces d'exécution du code en version raccourcie
+- Trace-ResultatsFULL.txt   --> traces d'exécution du code en version pleine (avec le debug).
+- Trace-ResultatsLIGHT.txt  --> traces d'exécution du code en version raccourcie.
 
 _Diagrammes (8 fichiers)_
 - LEGRUIEC-LEDUC-DC_FINAL.pdf
